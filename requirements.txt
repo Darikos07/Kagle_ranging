@@ -1,0 +1,15 @@
+# Python 3.13; система: Linux (Kaggle GPU)
+# Для GPU используйте совместимую CUDA-сборку PyTorch из окружения Kaggle.
+# Установка в ноутбуке не переустанавливает PyTorch.
+numpy==2.3.4
+pandas==2.3.3
+scikit-learn==1.7.2
+lightgbm==4.6.0
+nltk==3.9.2
+tqdm==4.67.1
+transformers==4.57.1
+peft==0.17.1
+accelerate==1.12.0
+sentencepiece==0.2.1
+einops==0.8.1
+torch==2.11.0
